@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-portals-and-reporting-vue-inertia",
+  "capabilityKey": "planned:real-estate:portals-and-reporting",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-real-estate-portals-and-reporting-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/real-estate/nextjs/portals-and-reporting.md",
+  "presentationPlan": "projects/real-estate/vue/portals-and-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
